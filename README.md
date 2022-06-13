@@ -2,7 +2,7 @@
 
 Aim:
 
-To analyse employee_dataset to find out who salary is increased predict which employee get hike in salaryby using of Logistic-regression.
+To analyse employee_dataset to find out whose salary is increased predict which employee get hike in salaryby using of Logistic-regression.
 
 Objectives:
 
