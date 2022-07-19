@@ -28,7 +28,7 @@ Python
 
 Jupyter Notebook
 
-Python libraries: pandas, seaborn, matplotlib, sklearn,
+Python libraries: pandas, matplotlib, sklearn,
 
 # Conclusion
 We have drawn many interesting inferences from the dataset employee_dataset; here’s a summary of the few of them
